@@ -1,4 +1,4 @@
-package Arrays.t217_存在相同元素.i1_双重for;
+package 数组结构.t217_存在相同元素.r1_双重for;
 
 // https://leetcode.cn/problems/contains-duplicate/
 public class Solution {

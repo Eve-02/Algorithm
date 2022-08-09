@@ -1,4 +1,4 @@
-package Arrays.t217_存在相同元素.r2_哈希表;
+package 数组结构.t217_存在相同元素.r3_哈希表;
 
 import java.util.HashSet;
 import java.util.Set;

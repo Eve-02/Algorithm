@@ -1,4 +1,4 @@
-package Arrays.t1_两数之和.r2_哈希表;
+package 数组结构.t1_两数之和.r2_哈希表;
 
 import java.util.HashMap;
 import java.util.Map;
