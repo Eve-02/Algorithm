@@ -1,4 +1,4 @@
-package 数组结构.t88_合并两个有序数组.r1_合并后排序;
+package 数组结构.t118_杨辉三角.t88_合并两个有序数组.r1_合并后排序;
 
 import java.util.Arrays;
 

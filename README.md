@@ -6,6 +6,8 @@
 
 | #   | Title | Type         |          Difficulty          | Solution |
 |-----| ----- |--------------|:----------------------------:|:--------:|
+|387|[字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)|字符串、队列、哈希表、计数|Easy|✔|
+|73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)|数组、哈希表、矩阵|Medium|✗|
 |36|[有效的数独](https://leetcode.cn/problems/valid-sudoku/)|数组、哈希表、矩阵|Medium|✗|
 |118|[杨辉三角](https://leetcode.cn/problems/pascals-triangle/)|数组、动态规划|Easy|✔|
 |566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|数组、矩阵、模拟|Easy|✔|

@@ -1,4 +1,4 @@
-package 数组结构.t88_合并两个有序数组.r2_双指针;
+package 数组结构.t118_杨辉三角.t88_合并两个有序数组.r2_双指针;
 
 
 public class Solution {
