@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 9)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 11)_
 
 | #   | Title | Type         |          Difficulty          | Solution |
 |-----| ----- |--------------|:----------------------------:|:--------:|
