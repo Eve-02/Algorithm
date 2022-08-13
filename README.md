@@ -31,7 +31,12 @@
 &nbsp;
 
 ## Acwing Algorithm
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 5)_
 | #   | Title | Type         |          Difficulty          | Solution |
 |---|-----------| ---- |:--------:|:----------:|
+|17|[从尾到头打印链表](https://www.acwing.com/problem/content/17/)|链表|Easy|✔|
+|16|[替换空格](https://www.acwing.com/problem/content/17/)|字符串、双指针|Easy|✔|
+|14|[不修改数组找出重复的数字](https://www.acwing.com/problem/content/15/)|二分、分治|Easy|✔|
+|13|[找出数组中重复的数字](https://www.acwing.com/problem/content/14/)|数组、置换|Easy|✔|
 |1| [A + B](https://www.acwing.com/problem/content/1/)|模拟|Easy|✔|
 
