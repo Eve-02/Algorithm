@@ -2,14 +2,16 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 18)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 20)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
-|83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)|链表|Easy|✔|
-|206|[反转链表](https://leetcode.cn/problems/reverse-linked-list/)|链表、递归|Easy|〇|
-|203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)|链表、递归|    Easy    |✔|
-|21|[合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)|链表、递归|    Easy    |〇|
+|232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)| 栈、队列、设计         |Easy|〇|
+|20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)| 栈、字符串           |Easy|✔|
+|83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)| 链表              |Easy|✔|
+|206|[反转链表](https://leetcode.cn/problems/reverse-linked-list/)| 链表、递归           |Easy|〇|
+|203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)| 链表、递归           |    Easy    |✔|
+|21|[合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)| 链表、递归           |    Easy    |〇|
 |141|[环形链表](https://leetcode.cn/problems/linked-list-cycle/)| 链表、哈希表、双指针      |    Easy    |〇|
 |242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)| 字符串、哈希表、排序      |    Easy    |✔|
 |383|[赎金信](https://leetcode.cn/problems/ransom-note/)| 字符串、哈希表、计数      |    Easy    |✔|

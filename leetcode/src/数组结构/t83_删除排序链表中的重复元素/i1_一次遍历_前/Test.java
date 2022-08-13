@@ -6,7 +6,6 @@ public class Test {
         ListNode head = new ListNode(1);
         head.next = new ListNode(1);
         head.next.next = new ListNode(2);
-        new Solution().deleteDuplicates(head);
     }
 
 
