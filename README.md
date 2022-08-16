@@ -2,10 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 22)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 25)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
+|94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
+|144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
 |14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)|字符串|Easy|〇|
 |13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)|字符串、哈希表、数学|Easy|✔|
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)| 栈、队列、设计         |Easy|〇|
