@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 20)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 22)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)|字符串|Easy|〇|
+|13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)|字符串、哈希表、数学|Easy|✔|
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)| 栈、队列、设计         |Easy|〇|
 |20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)| 栈、字符串           |Easy|✔|
 |83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)| 链表              |Easy|✔|
