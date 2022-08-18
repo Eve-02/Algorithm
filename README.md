@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 25)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 27)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|344|[反转字符串](https://leetcode.cn/problems/reverse-string/)|字符串、双指针|Easy|✔|
+|205|[同构字符串](https://leetcode.cn/problems/isomorphic-strings/)|字符串、哈希表、数组|Easy|✔|
 |145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
 |144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
