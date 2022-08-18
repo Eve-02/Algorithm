@@ -2,10 +2,14 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 27)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 31)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|136|[只出现一次的数字](https://leetcode.cn/problems/single-number/)|数组、位运算|Easy|〇|
+|66|[加一](https://leetcode.cn/problems/plus-one/)|数组、数学|Easy|✔|
+|27|[移除元素](https://leetcode.cn/problems/remove-element/)|数组、双指针|Easy|✔|
+|26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|数组、双指针|Easy|✔|
 |344|[反转字符串](https://leetcode.cn/problems/reverse-string/)|字符串、双指针|Easy|✔|
 |205|[同构字符串](https://leetcode.cn/problems/isomorphic-strings/)|字符串、哈希表、数组|Easy|✔|
 |145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|树、二叉树、栈、深度优先搜索|Easy|〇|
