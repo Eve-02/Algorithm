@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 31)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 33)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|219|[存在重复元素2](https://leetcode.cn/problems/contains-duplicate-ii/)|数组、哈希表、滑动窗口|Easy|✔|
+|349|[两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)|数组、哈希表、排序、双指针|Easy|✔|
 |136|[只出现一次的数字](https://leetcode.cn/problems/single-number/)|数组、位运算|Easy|〇|
 |66|[加一](https://leetcode.cn/problems/plus-one/)|数组、数学|Easy|✔|
 |27|[移除元素](https://leetcode.cn/problems/remove-element/)|数组、双指针|Easy|✔|
