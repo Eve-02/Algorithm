@@ -13,7 +13,7 @@ public class Solution {
      * 时间复杂度: O(N)。其中 N 为链表的长度。
      *
      */
-
+    // 【执行用时：3ms, 在所有 Java 提交中击败了 22.06% 的用户】
     public boolean hasCycle(ListNode head) {
         ListNode p = head;
         Set<ListNode> set = new HashSet<>();

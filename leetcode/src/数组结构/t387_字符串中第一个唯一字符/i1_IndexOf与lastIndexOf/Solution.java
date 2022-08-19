@@ -13,7 +13,7 @@ public class Solution {
      * 时间复杂度: O(N^2)。String.IndexOf(str) 的时间复杂度为 O(str.length * String.length)。
      *
      */
-
+    // 【执行用时：35ms, 在所有 Java 提交中击败了 10.11% 的用户】
     public int firstUniqChar(String s) {
         for(int i=0;i<s.length();i++){
             if(s.indexOf(s.charAt(i) + "") == s.lastIndexOf(s.charAt(i) + "")){

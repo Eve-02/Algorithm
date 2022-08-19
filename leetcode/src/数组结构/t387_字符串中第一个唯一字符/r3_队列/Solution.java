@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Solution {
 
+    // 【执行用时：39ms, 在所有 Java 提交中击败了 7.10% 的用户】
     public int firstUniqChar(String s){
         Map<Character,Integer> map = new HashMap<>();
         Queue<Pair> queue = new LinkedList<>();

@@ -9,6 +9,7 @@ public class Solution {
     /**
      * 时间复杂度: O(N*LogN).
      */
+    // 【执行用时：5ms, 在所有 Java 提交中击败了 30.94% 的用户】
     public int singleNumber(int[] nums) {
         Arrays.sort(nums);
         for(int i=0;i+1<nums.length;i+=2){

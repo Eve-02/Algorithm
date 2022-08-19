@@ -14,7 +14,7 @@ public class Solution {
      * 第二次遍历哈希映射的时间复杂度为 O(∣Σ∣)，由于 s 包含的字符种类数一定小于 s 的长度，因此 O(∣Σ∣) 在渐进意义下小于 O(n)，可以忽略。
      *
      */
-
+    // 【执行用时：20ms, 在所有 Java 提交中击败了 64.90% 的用户】
     public int firstUniqChar(String s) {
         Map<Character,Integer> map = new HashMap<>();
         int len = s.length();

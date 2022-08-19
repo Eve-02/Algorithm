@@ -13,6 +13,7 @@ public class Solution {
      * 时间复杂度: O(N)。其中 N 是字符串的长度。
      *
      */
+    // 【执行用时：29ms, 在所有 Java 提交中击败了 20.30% 的用户】
     public int firstUniqChar(String s) {
         Map<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++){

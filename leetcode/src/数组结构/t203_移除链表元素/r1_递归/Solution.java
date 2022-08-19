@@ -5,6 +5,7 @@ public class Solution {
     /**
      * 时间复杂度: O(N).
      */
+    // 【执行用时：1ms, 在所有 Java 提交中击败了 49.57% 的用户】
     public ListNode removeElements(ListNode head, int val) {
         if(head == null){
             return head;

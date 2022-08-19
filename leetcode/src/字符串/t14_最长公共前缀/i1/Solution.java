@@ -5,7 +5,7 @@ public class Solution {
 
 //    输入：strs = ["flower","flow","flight"]
 //    输出："fl"
-
+    // 【执行用时：1ms, 在所有 Java 提交中击败了 69.81% 的用户】
     public String longestCommonPrefix(String[] strs) {
         StringBuilder builder = new StringBuilder();
         int len = strs.length;

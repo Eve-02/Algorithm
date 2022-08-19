@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 33)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 35)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|268|[丢失的数字](https://leetcode.cn/problems/missing-number/)|数组、位运算、哈希表、二分查找、排序|Easy|〇|
+|169|[多数元素](https://leetcode.cn/problems/majority-element/)|数组、哈希表、分治、计数、排序|Easy|〇|
 |219|[存在重复元素2](https://leetcode.cn/problems/contains-duplicate-ii/)|数组、哈希表、滑动窗口|Easy|✔|
 |349|[两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)|数组、哈希表、排序、双指针|Easy|✔|
 |136|[只出现一次的数字](https://leetcode.cn/problems/single-number/)|数组、位运算|Easy|〇|

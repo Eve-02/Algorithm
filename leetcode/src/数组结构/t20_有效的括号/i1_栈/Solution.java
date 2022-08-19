@@ -8,7 +8,7 @@ public class Solution {
     /**
      * 时间复杂度: O(N)。
      */
-
+    // [执行用时：1ms, 在所有ava提交中击败了 98.90% 的用户]
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for(int i=0;i<s.length();i++){

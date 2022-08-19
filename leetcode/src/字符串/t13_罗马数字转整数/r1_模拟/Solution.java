@@ -19,6 +19,7 @@ public class Solution {
      * 一般情况下，大的数字在小的左边。
      * 当出现小的数字在左边时，如：IV，则 result - I，若则 result + I.
      */
+    // 【执行用时：5ms, 在所有 Java 提交中击败了 25.83% 的用户】
     public int romanToInt(String s) {
         int ans = 0;
         int len = s.length();

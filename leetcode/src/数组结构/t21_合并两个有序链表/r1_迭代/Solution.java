@@ -3,6 +3,7 @@ package 数组结构.t21_合并两个有序链表.r1_迭代;
 // https://leetcode.cn/problems/merge-two-sorted-lists/
 public class Solution {
 
+    // [执行用时：0ms, 在所有 Java 提交中击败了 100.00% 的用户]
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode prehead = new ListNode(-1);
 

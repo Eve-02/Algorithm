@@ -6,6 +6,7 @@ public class Solution {
     /**
      * 时间复杂度：O(N^2)，其中 N 是数组中的元素数量。最坏情况下数组中任意两个数都要被匹配一次。
      */
+    // [执行用时：50ms, 在所有 Java 提交中击败了 30.65% 的用户]
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         for (int i = 0; i < n; ++i) {

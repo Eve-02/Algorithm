@@ -7,7 +7,7 @@ public class Solution {
     /**
      * 时间复杂度: O(NlogN)。s.length() 与 t.length()相等。
      */
-
+    // 【执行用时：2ms, 在所有 Java 提交中击败了 79.37% 的用户】
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()){
             return false;

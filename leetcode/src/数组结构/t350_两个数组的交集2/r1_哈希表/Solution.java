@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+// https://leetcode.cn/problems/intersection-of-two-arrays-ii/
 public class Solution {
 
     /**
@@ -18,7 +19,7 @@ public class Solution {
      * 时间复杂度: O(M+N)。其中 M 为 nums1 的长度，N 为 nums2 的长度
      *
      */
-
+    // 【执行用时：3ms, 在所有 Java 提交中击败了 39.67% 的用户】
     public int[] intersect(int[] nums1, int[] nums2) {
         // 如果数组 nums1 的长度大于 nums2，则调用自身交换数组
         if(nums1.length > nums2.length){

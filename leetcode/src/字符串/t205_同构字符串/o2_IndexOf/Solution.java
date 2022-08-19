@@ -5,6 +5,7 @@ public class Solution {
     /**
      * indexOf() 就已经存放了该字符第一次映射关系的下标
      */
+    // 【执行用时：10ms, 在所有 Java 提交中击败了 78.56% 的用户】
     public boolean isIsomorphic(String s, String t) {
         for (int i = 0; i < s.length(); i++) {
             //取当前位置字符第一次出现的索引对比

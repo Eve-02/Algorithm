@@ -7,7 +7,7 @@ public class Solution {
      * 会比较 26 次，而这种方法在遍历 magazine时，每一个字符都要比较一次。
      *
      */
-
+    // 【执行用时：1ms, 在所有 Java 提交中击败了 99.91% 的用户】
     public boolean canConstruct(String ransomNote, String magazine) {
         if(ransomNote.length() > magazine.length()){
             return false;

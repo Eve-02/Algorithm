@@ -11,7 +11,7 @@ public class Solution {
      * 时间复杂度: O(NlogN)，其中 N为数组的长度。需要对数组进行排序。
      * Arrays.sort: O(NlogN)
      */
-
+    // 【执行用时：19ms, 在所有 Java 提交中击败了 35.04% 的用户】
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
         for(int i=0;i<nums.length-1;i++){

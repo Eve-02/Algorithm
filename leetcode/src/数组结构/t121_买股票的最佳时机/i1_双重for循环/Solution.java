@@ -8,7 +8,7 @@ public class Solution {
      * 时间复杂度: O(N^2)。其中 N 为数组 prices 的长度。
      *
      */
-
+    // 超时
     public int maxProfit(int[] prices) {
         int profit = 0;
         // [7,1,5,3,6,4]

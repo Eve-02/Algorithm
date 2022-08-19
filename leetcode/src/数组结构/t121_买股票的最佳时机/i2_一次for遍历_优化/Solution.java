@@ -14,7 +14,7 @@ public class Solution {
      *
      */
 
-
+    // [执行用时：4ms, 在所有 Java 提交中击败了 25.57% 的用户]
     public int maxProfit(int[] prices) {
         // [7,1,5,3,6,4]
         int profit = 0;
