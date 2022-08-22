@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 37)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 39)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|234|[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)|链表、递归、栈、双指针|Easy|〇|
+|160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|链表、哈希表、双指针|Easy|〇|
 |283|[移动0](https://leetcode.cn/problems/move-zeroes/)|数组、双指针|Easy|✔|
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|数组、排序|Easy|✔|
 |268|[丢失的数字](https://leetcode.cn/problems/missing-number/)|数组、位运算、哈希表、二分查找、排序|Easy|〇|
