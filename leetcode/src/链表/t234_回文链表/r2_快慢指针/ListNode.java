@@ -1,4 +1,4 @@
-package 链表.t234_回文链表.i1_builder_reverse;
+package 链表.t234_回文链表.r2_快慢指针;
 
 public class ListNode {
     int val;

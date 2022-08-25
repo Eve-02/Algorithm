@@ -2,11 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 39)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 41)_
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
-|234|[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)|链表、递归、栈、双指针|Easy|〇|
+|485|[最大连续1的个数](https://leetcode.cn/problems/max-consecutive-ones/)|数组|Easy|✔|
+|448|[找出所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|数组、哈希表|Easy|✔|
+|234|[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)|链表、递归、栈、双指针|Easy|✔|
 |160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|链表、哈希表、双指针|Easy|〇|
 |283|[移动0](https://leetcode.cn/problems/move-zeroes/)|数组、双指针|Easy|✔|
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|数组、排序|Easy|✔|

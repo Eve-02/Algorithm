@@ -1,4 +1,4 @@
-package 链表.t234_回文链表.i1_builder_reverse;
+package 链表.t234_回文链表.i1_使用builder反转比较;
 
 
 // https://leetcode.cn/problems/palindrome-linked-list/
