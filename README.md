@@ -2,10 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 41)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 43)_
+
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|500|[键盘行](https://leetcode.cn/problems/keyboard-row/)|数组、哈希表、字符串|Easy|✔|
+|495|[提莫攻击](https://leetcode.cn/problems/teemo-attacking/)|数组、模拟|Easy|✔|
 |485|[最大连续1的个数](https://leetcode.cn/problems/max-consecutive-ones/)|数组|Easy|✔|
 |448|[找出所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|数组、哈希表|Easy|✔|
 |234|[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)|链表、递归、栈、双指针|Easy|✔|
