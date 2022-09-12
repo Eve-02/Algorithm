@@ -1,4 +1,4 @@
-package t1_50.t17_从尾到头打印链表.i1_栈;
+package 题库.t1_50.t17_从尾到头打印链表.i1_栈;
 
 import java.util.Stack;
 

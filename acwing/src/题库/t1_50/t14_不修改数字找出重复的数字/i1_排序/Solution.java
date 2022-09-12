@@ -1,4 +1,4 @@
-package t1_50.t14_不修改数字找出重复的数字.i1_排序;
+package 题库.t1_50.t14_不修改数字找出重复的数字.i1_排序;
 
 import java.util.Arrays;
 

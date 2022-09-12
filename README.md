@@ -2,11 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 43)_
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (_count: 45)_
 
 
 | #   | Title | Type            | Difficulty | Solution |
 |-----| ----- |-----------------|:----------:|:--------:|
+|389|[找不同](https://leetcode.cn/problems/find-the-difference/)|哈希表、字符串、位运算|Easy|〇|
+|202|[快乐数](https://leetcode.cn/problems/happy-number/)|哈希表、双指针|Easy|✔|
 |500|[键盘行](https://leetcode.cn/problems/keyboard-row/)|数组、哈希表、字符串|Easy|✔|
 |495|[提莫攻击](https://leetcode.cn/problems/teemo-attacking/)|数组、模拟|Easy|✔|
 |485|[最大连续1的个数](https://leetcode.cn/problems/max-consecutive-ones/)|数组|Easy|✔|

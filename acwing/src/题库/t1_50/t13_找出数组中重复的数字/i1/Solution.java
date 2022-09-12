@@ -1,4 +1,4 @@
-package t1_50.t13_找出数组中重复的数字.i1;
+package 题库.t1_50.t13_找出数组中重复的数字.i1;
 
 // https://www.acwing.com/problem/content/14/
 public class Solution {

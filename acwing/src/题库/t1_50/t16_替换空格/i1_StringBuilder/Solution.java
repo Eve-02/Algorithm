@@ -1,4 +1,4 @@
-package t1_50.t16_替换空格.i1_StringBuilder;
+package 题库.t1_50.t16_替换空格.i1_StringBuilder;
 
 // https://www.acwing.com/problem/content/17/
 public class Solution {
