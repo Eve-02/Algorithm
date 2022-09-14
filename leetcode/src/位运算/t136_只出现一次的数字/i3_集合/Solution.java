@@ -1,4 +1,4 @@
-package 数组.t136_只出现一次的数字.i3_集合;
+package 位运算.t136_只出现一次的数字.i3_集合;
 
 import java.util.*;
 

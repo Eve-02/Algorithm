@@ -1,4 +1,4 @@
-package 数组.t136_只出现一次的数字.i2_哈希表;
+package 位运算.t136_只出现一次的数字.i2_哈希表;
 
 import java.util.HashMap;
 import java.util.Map;

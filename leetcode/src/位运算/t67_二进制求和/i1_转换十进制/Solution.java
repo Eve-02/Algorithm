@@ -1,11 +1,10 @@
 package 位运算.t67_二进制求和.i1_转换十进制;
 
-import org.junit.Test;
 
 // https://leetcode.cn/problems/add-binary/
 public class Solution {
 
-    // 【194/294 个通过测试用例】
+    // 【194 / 294 个通过测试用例】
     public String addBinary(String a, String b) {
         // 输入: a = "11", b = "1"
         // 输出: "100"

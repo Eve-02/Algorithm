@@ -1,4 +1,4 @@
-package 数组.t136_只出现一次的数字.i1_排序;
+package 位运算.t136_只出现一次的数字.i1_排序;
 
 
 import java.util.Arrays;
