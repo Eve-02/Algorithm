@@ -20,5 +20,8 @@ public class Solution {
         return nums[nums.length-1];
     }
 
+    public void test(){
+    }
+
 
 }

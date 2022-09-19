@@ -6,12 +6,12 @@
 
 | #   | Title                                                                                 | Type               | Difficulty | Solution |
 |-----|---------------------------------------------------------------------------------------|--------------------|:----------:|:--------:|
-| 67  | [二进制求和](https://leetcode.cn/problems/add-binary/)                                     | 位运算                |Easy|〇|
-| 318 | [最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)             | 位运算                |Easy|✗|
-| 187 | [重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/)                      | 位运算                |Easy|✗|
+| 318 | [最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)             | 位运算                |Medium|✗|
+| 187 | [重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/)                      | 位运算                |Medium|✗|
 | 421 | [数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/)  | 位运算                |Medium|✗|
+| 67  | [二进制求和](https://leetcode.cn/problems/add-binary/)                                     | 位运算                |Easy|✔|
 | 260 | [只出现一次的数字3](https://leetcode.cn/problems/single-number-iii/)                          | 位运算                |Medium|〇|
-| 137 | [只出现一次的数字2](https://leetcode.cn/problems/single-number-ii/)                           | 位运算、数组             |Medium|〇|
+| 137 | [只出现一次的数字2](https://leetcode.cn/problems/single-number-ii/)                           | 位运算、数组             |Medium|✔|
 | 136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/)                               | 位运算、数组             |Easy|✔|
 | 389 | [找不同](https://leetcode.cn/problems/find-the-difference/)                              | 哈希表、字符串、位运算        |Easy|✔|
 | 202 | [快乐数](https://leetcode.cn/problems/happy-number/)                                     | 哈希表、双指针            |Easy|✔|
@@ -57,7 +57,7 @@
 | 1   | [两数之和](https://leetcode.cn/problems/two-sum/)                                         | 数组、哈希表             |    Easy    |    ✔     |
 | 53  | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                              | 数组、分治、动态规划         |   Medium   |    ✗     |
 | 217 | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/)                            | 数组、哈希表、排序          |    Easy    |    ✔     |
-
+ 
 &nbsp;
 
 ## Acwing Algorithm
