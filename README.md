@@ -2,10 +2,12 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 45)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 52)
+
 
 | #   | Title                                                                                 | Type               | Difficulty | Solution |
 |-----|---------------------------------------------------------------------------------------|--------------------|:----------:|:--------:|
+|876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|链表、双指针|Easy|✔|
 | 318 | [最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)             | 位运算                |Medium|✗|
 | 187 | [重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/)                      | 位运算                |Medium|✗|
 | 421 | [数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/)  | 位运算                |Medium|✗|
