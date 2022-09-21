@@ -2,11 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 52)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 54)
 
 
 | #   | Title                                                                                 | Type               | Difficulty | Solution |
 |-----|---------------------------------------------------------------------------------------|--------------------|:----------:|:--------:|
+|02.01|[移除重复节点](https://leetcode.cn/problems/remove-duplicate-node-lcci/)|链表、哈希表|Easy|✔|
+|1290|[二进制链表转整数](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/)|链表、位运算|Easy|✔|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|链表、双指针|Easy|✔|
 | 318 | [最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)             | 位运算                |Medium|✗|
 | 187 | [重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/)                      | 位运算                |Medium|✗|
