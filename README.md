@@ -2,12 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 56)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 57)
 
 
 
 | #   | Title                                                                                 | Type               | Difficulty | Solution |
 |-----|---------------------------------------------------------------------------------------|--------------------|:----------:|:--------:|
+|3|[无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|滑动窗口、字符串、哈希表|Medium|✔|
 |2|[两数相加](https://leetcode.cn/problems/add-two-numbers/)|链表、数学|Medium|✔|
 |345|[反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/)|双指针、字符串|Easy|✔|
 |02.01|[移除重复节点](https://leetcode.cn/problems/remove-duplicate-node-lcci/)|链表、哈希表|Easy|✔|
