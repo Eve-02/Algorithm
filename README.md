@@ -2,12 +2,14 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 64)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 66)
 
 
 
 | #     | Title                                                                                       | Type               | Difficulty | Solution |
 |-------|---------------------------------------------------------------------------------------------|--------------------|:----------:|:--------:|
+|461|[汉明距离](https://leetcode.cn/problems/hamming-distance/)|位运算|Easy|✔|
+|226|[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|二叉树、深度优先搜索、广度优先搜索|Easy|✔|
 |104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|二叉树、深度优先搜索、广度优先搜索|Easy|〇|
 |101|[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|二叉树、深度优先搜索、广度优先搜索|Easy|〇|
 |509| [斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                                                                        |记忆化搜索、数学、动态规划|Easy|✔|
