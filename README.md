@@ -2,12 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 69)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 70)
 
 
 
 | #     | Title                                                                                       | Type               |    Difficulty     | Solution |
 |-------|---------------------------------------------------------------------------------------------|--------------------|:-----------------:|:--------:|
+|22|[括号生成](https://leetcode.cn/problems/generate-parentheses/)|深度优先搜索、回溯|Medium|    〇     |
 |46|[全排列](https://leetcode.cn/problems/permutations/)|深度优先搜索、回溯|Medium|    〇     |
 |617|[合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)|二叉树、深度优先搜索、广度优先搜索|       Easy        |    〇     |
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|二叉树、深度优先搜索|       Easy        |    ✔     |
