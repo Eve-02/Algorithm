@@ -2,12 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 72)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 73)
 
 
 
 | #     | Title                                                                                       | Type                 |    Difficulty     | Solution |
 |-------|---------------------------------------------------------------------------------------------|----------------------|:-----------------:|:--------:|
+|39|[组合总和](https://leetcode.cn/problems/combination-sum/)|数组、回溯|Medium|     ✔     |
 |238|[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)|数组、前缀和|Medium|     ✔     |
 |17|[电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)| 深度优先搜索、回溯            |Medium|     ✔     |
 |22|[括号生成](https://leetcode.cn/problems/generate-parentheses/)| 深度优先搜索、回溯            |Medium|    〇     |
