@@ -2,12 +2,13 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 76)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 77)
 
 
 
 | #     | Title                                                                                       | Type                 | Difficulty | Solution |
 |-------|---------------------------------------------------------------------------------------------|----------------------|:----------:|:--------:|
+|49|[字母异位词](https://leetcode.cn/problems/group-anagrams/)|字符串、数组、哈希表、排序| Medium   |    ✔     |
 |42|[接雨水](https://leetcode.cn/problems/trapping-rain-water/)|栈、数组、双指针、动态规划、单调栈|Hard    |     ✗     |
 |496|[下一个更大元素1](https://leetcode.cn/problems/next-greater-element-i/)|数组、栈、单调栈|    Easy    |    ✔     |
 |739|[每日温度](https://leetcode.cn/problems/daily-temperatures/)|数组、栈、单调栈|   Medium   |    ✔     |

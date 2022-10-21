@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Test {
 
@@ -13,6 +15,23 @@ public class Test {
         for (Integer integer : list2) {
             System.out.println(integer);
         }
+    }
+
+    @org.junit.Test
+    public void test2(){
+        Map<Character[],Integer> map = new HashMap<>();
+        Character[] arr1 = new Character[]{'a','b','c'};
+        Character[] arr2 = new Character[]{'a','b','c'};
+        map.put(arr1,1);
+        System.out.println(map.containsKey(arr2));
+
+        System.out.println("-----------");
+
+        Map<String,Integer> map1 = new HashMap<>();
+        String str = "abc";
+        String str1 = "abc";
+        map1.put(str,1);
+        System.out.println(map1.containsKey(str1));
     }
 
 
