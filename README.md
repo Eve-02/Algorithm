@@ -2,17 +2,18 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 75)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 76)
 
 
 
 | #     | Title                                                                                       | Type                 | Difficulty | Solution |
 |-------|---------------------------------------------------------------------------------------------|----------------------|:----------:|:--------:|
-|496|[下一个更大元素1](https://leetcode.cn/problems/next-greater-element-i/)|数组、栈、单调栈|    Easy    |     ✔     |
-|739|[每日温度](https://leetcode.cn/problems/daily-temperatures/)|数组、栈、单调栈|   Medium   |     ✔     |
-|39|[组合总和](https://leetcode.cn/problems/combination-sum/)|数组、回溯|   Medium   |     ✔     |
-|238|[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)|数组、前缀和|   Medium   |     ✔     |
-|17|[电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)| 深度优先搜索、回溯            |   Medium   |     ✔     |
+|42|[接雨水](https://leetcode.cn/problems/trapping-rain-water/)|栈、数组、双指针、动态规划、单调栈|Hard    |     ✗     |
+|496|[下一个更大元素1](https://leetcode.cn/problems/next-greater-element-i/)|数组、栈、单调栈|    Easy    |    ✔     |
+|739|[每日温度](https://leetcode.cn/problems/daily-temperatures/)|数组、栈、单调栈|   Medium   |    ✔     |
+|39|[组合总和](https://leetcode.cn/problems/combination-sum/)|数组、回溯|   Medium   |    ✔     |
+|238|[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)|数组、前缀和|   Medium   |    ✔     |
+|17|[电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)| 深度优先搜索、回溯            |   Medium   |    ✔     |
 |22|[括号生成](https://leetcode.cn/problems/generate-parentheses/)| 深度优先搜索、回溯            |   Medium   |    〇     |
 |46|[全排列](https://leetcode.cn/problems/permutations/)| 深度优先搜索、回溯            |   Medium   |    〇     |
 |617|[合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)| 二叉树、深度优先搜索、广度优先搜索    |    Easy    |    〇     |
