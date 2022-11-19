@@ -2,14 +2,15 @@
 
 ## LeetCode Algorithm
 
-##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 81)
+##### (Notes: &nbsp;For the official solution，"✔" means all solved，"〇" means partially solved，"✗" means unsolved.) (count: 82)
 
 
 
 | #     | Title                                                                                       | Type                   | Difficulty | Solution |
 |-------|---------------------------------------------------------------------------------------------|------------------------|:----------:|:--------:|
-|62|[不同路径](https://leetcode.cn/problems/unique-paths/)|数学、组合、动态规划|Medium	|    ✔     |
-|64|[最小路径总和](https://leetcode.cn/problems/minimum-path-sum/)| 数组、矩阵、动态规划、记忆化搜索       |Medium	|    ✔     |
+|409| [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                   |哈希表、字符串|Easy|✔|
+|62| [不同路径](https://leetcode.cn/problems/unique-paths/)                                          |数学、组合、动态规划|Medium	|    ✔     |
+|64| [最小路径总和](https://leetcode.cn/problems/minimum-path-sum/)                                    | 数组、矩阵、动态规划、记忆化搜索       |Medium	|    ✔     |
 |208| [实现 Trie 前缀树](https://leetcode.cn/problems/implement-trie-prefix-tree/)                     | 字典树、哈希表、字符串            |Medium   |    ✔     |
 |139| [单词拆分](https://leetcode.cn/problems/word-break/)                                            | 字符串、字典树、记忆化搜索、哈希表、动态规划 |Medium   |    ✗     |
 |49| [字母异位词](https://leetcode.cn/problems/group-anagrams/)                                       | 字符串、数组、哈希表、排序          | Medium   |    ✔     |

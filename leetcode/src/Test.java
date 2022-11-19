@@ -5,6 +5,9 @@ import java.util.Map;
 
 public class Test {
 
+    /**
+     * List<Integer> list2 = new ArrayList<>(list);
+     */
     @org.junit.Test
     public void test1(){
         List<Integer> list = new ArrayList<>();
@@ -17,6 +20,9 @@ public class Test {
         }
     }
 
+    /**
+     * map.containsKey(arr2)
+     */
     @org.junit.Test
     public void test2(){
         Map<Character[],Integer> map = new HashMap<>();
@@ -33,6 +39,7 @@ public class Test {
         map1.put(str,1);
         System.out.println(map1.containsKey(str1));
     }
+
 
 
 
